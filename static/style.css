@@ -1,0 +1,12 @@
+body {
+    background-image: url("research-5297028.jpg ");
+    background-repeat: no-repeat;
+    background-size: 1400px 900px;
+    ;
+    /*background-color: #E9F1FA;*/
+    color: rgb(255, 255, 255);
+  }
+  
+  h1, td, tr {
+      color: #222222;
+  }
